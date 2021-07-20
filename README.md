@@ -10,6 +10,8 @@ Caesar's Wheel).
 
 The code for the length separation is painfully slow and ineffecient though... it needs to be improved, by a lot. The time it takes to finish took hours.
 
+The source of the database used is https://github.com/dwyl/english-words.
+
 **Note to self:**\
 It would also be nice to have it in this fashion.
 ```
